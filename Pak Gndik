@@ -7906,7 +7906,9 @@ https://kametv.my.id/pdx/play.mpd?id=17994
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZgn_vTyF1GsMh5NzAdtv85tt-PaPTGD22tFJRHNR7PlJ9u8MeKH-LCm8&s=10" group-title="CHANNEL | PROLIGA",MOJI_(xtv)
 http://xtv.ooo:8080/0966717777/0966717777/350997
 
-
+#EXTINF:-1 group-title="CHANNEL | PROLIGA" tvg-logo="https://iptv.urfan.web.id/logo/tvrisport.png", TVRI SPORT 1
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112 (Linux;Android 13) ExoPlayerLib/2.18.1
+https://barjasetiawan.my.id/sc/oxygen/index.m3u8?id=tvrisport
 ================================================ SPORTSTARS =========================================================
 
 
